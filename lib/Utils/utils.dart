@@ -8,6 +8,6 @@ pickVideo() async {
     videoFile = await picker.pickVideo(source: ImageSource.gallery);
     return videoFile!.path;
   } catch (e) {
-    print('Error: ${e}');
+    print('Error: $e');
   }
 }
