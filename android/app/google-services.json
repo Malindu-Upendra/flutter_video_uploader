@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166735571247",
+    "project_id": "hand2sinhala",
+    "storage_bucket": "hand2sinhala.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166735571247:android:8a61784ccd7da8f56f99da",
+        "android_client_info": {
+          "package_name": "com.example.video_uploader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxDPOh529KqCHptXpb0MSgA7hAIiDZ544"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
